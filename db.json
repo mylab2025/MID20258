@@ -4,7 +4,7 @@
       "MaterialTitle": {
         "Name": "32-bit MCU (3V3-LQFP48)",
         "PN": "STM32L151C8T6A",
-        "MF": "STMicroelectronics"
+        "MF": "STMICROELECTRONICS"
       },
       "MID": "MID20258",
       "MD": "STM32L151C8T6A part is 3V3 logic with LQFP48 package (48Pins). Max MCU Current = 100mA || Max. Tolarent Voltage for VDD/VSS = 4V \u0026 for IO Pins = VDD\u002B4V;  Other Specs:  Ultra-low-power 32-bit MCU ARM\u00AE-based Cortex\u00AE-M3, 128KB Flash, 32KB SRAM, 4KB EEPROM, LCD, USB, ADC, DAC. DB Note: Location to be allocate.",
@@ -12,7 +12,7 @@
       "MQNT": 10,
       "MQATG": "#CLASS_0",
       "ML": "",
-      "MCost": 0,
+      "MCost": 380.19,
       "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20258/main/stm32l151c6_a-1851114 (1).pdf\u0026embedded=true",
       "MAF1": "",
       "MAF2": "",
